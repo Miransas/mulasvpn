@@ -1,7 +1,7 @@
 pub mod manager;
-pub mod tunnel;
 pub mod peer;
+pub mod tunnel;
 
 pub use manager::*;
-pub use tunnel::*;
 pub use peer::*;
+pub use tunnel::*;
